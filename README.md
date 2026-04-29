@@ -1,124 +1,220 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Ateeb&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=MERN%20Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=68&descSize=15" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=8B5CF6&center=true&vCenter=true&width=480&lines=Building+clean+%26+scalable+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+freelance+%26+collaboration" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateeb-hussain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AteebAH96/My-Portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateeb@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AteebAH96&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/AteebAH96?style=flat-square&color=8b5cf6&label=Followers)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1117,60:0f1923,100:0a0a0f&height=200&section=header&text=Ateeb%20Hussain&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20·%20TypeScript%20Enthusiast%20·%20UI%20Craftsman%20⚡&descSize=14&descAlignY=62&descColor=8892a4" width="100%"/>
 
 </div>
 
+<!-- TYPING ANIMATION -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=550&height=40&lines=Hey+there%2C+I'm+Ateeb+👋;I+turn+ideas+into+pixel-perfect+reality;MERN+Stack+%7C+TypeScript+%7C+Clean+Code;Ship+fast.+Break+nothing.+Learn+always.+🚀" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateeb-hussain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300E5FF.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/AteebAH96/My-Portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateeb@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AteebAH96)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AteebAH96&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/AteebAH96?style=for-the-badge&color=00e5ff&label=FOLLOWERS&logo=github)
+
+</div>
+
+<br/>
+
 ---
 
-## 👨‍💻 About Me:
+<!-- ABOUT ME SECTION -->
+## 🧑‍💻 &nbsp;`< About Me />`
 
-```javascript
-const ateeb = {
-  name       : "Ateeb Hussain",
-  role       : "MERN Stack Developer — Frontend Focused",
-  stack      : ["React", "Node.js", "Express", "MongoDB", "TypeScript"],
-  goal       : "Build production-level apps & grow as a professional dev",
-  funFacts   : ["PUBG Mobile fan 🎮", "Coffee + Code = Productivity ☕", "Clean UI obsessed ⚡"],
-  available  : true   // open for freelance & collaboration
+```typescript
+const ateeb: Developer = {
+  name        : "Ateeb Hussain",
+  location    : "Pakistan 🇵🇰",
+  role        : "Full Stack Developer  — Frontend at Heart",
+  stack       : ["React", "TypeScript", "Node.js", "Express", "MongoDB"],
+
+  currentlyOn : {
+    building   : "Production-grade web apps with clean architecture",
+    learning   : "Advanced TypeScript patterns & System Design",
+    exploring  : "Next.js, Docker & Cloud Deployments ☁️",
+  },
+
+  personality : ["Coffee addict ☕", "PUBG Mobile fan 🎮", "Pixel-perfect UI 🎨"],
+  openTo      : ["Freelance Projects", "Collaboration", "Full-time Roles"],
+
+  motto       : "Don't just write code — craft experiences. ⚡",
 };
 ```
 
----
-
-## 💻 Tech Stack:
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**⚙️ Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**🧰 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br/>
 
 ---
 
-## 📊 GitHub Stats:
+<!-- SKILLS SECTION -->
+## ⚡ &nbsp;`< Tech Arsenal />`
 
 <div align="center">
-<img src="https://github-readme-stats-mu-opal.vercel.app/api?username=AteebAH96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats-mu-opal.vercel.app/api/top-langs/?username=AteebAH96&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" width="40%" />
+
+**Frontend Magic**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nextjs&theme=dark&perline=8" />
+
+<br/><br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql&theme=dark&perline=8" />
+
+<br/><br/>
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,npm,docker&theme=dark&perline=8" />
+
 </div>
 
 <br/>
 
-## 🔥 Streak Stats:
-
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AteebAH96&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
-</a>
-</div>
-
 ---
 
-## 📈 Contribution Graph:
+<!-- GITHUB STATS -->
+## 📊 &nbsp;`< GitHub Analytics />`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AteebAH96&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AteebAH96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=Ateeb's+GitHub+Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AteebAH96&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies:
-
+<!-- STREAK STATS -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AteebAH96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AteebAH96&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff&sideLabels=8892a4&dates=8892a4&sideNums=ffffff&currStreakNum=ffffff&starting_year=2024" alt="GitHub Streak" />
 
 </div>
 
+<br/>
+
 ---
 
-## 💬 Dev Quote:
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 &nbsp;`< Contribution Snake />`
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> 
-> **— John Johnson**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AteebAH96/AteebAH96/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AteebAH96/AteebAH96/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AteebAH96/AteebAH96/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
+<br/>
+
 ---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 &nbsp;`< Activity Graph />`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AteebAH96&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff" width="100%"/>
 
-⭐ **If you like my work, consider giving my repos a star!**
+</div>
+
+<br/>
+
+---
+
+<!-- TROPHIES -->
+## 🏆 &nbsp;`< Achievements />`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AteebAH96&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- QUOTE -->
+## 💭 &nbsp;`< Daily Dose />`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- SNAKE SETUP GUIDE -->
+## 🔧 &nbsp;`< Snake Animation Setup (One-Time) />`
+
+**Step 1** — In your `AteebAH96` repo, go to **Actions** → **New workflow** → **Set up a workflow yourself**
+
+**Step 2** — Paste this into `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3** — Run the workflow manually once → Done! 🎉
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:0f1923&height=130&section=footer&text=Let's+Build+Something+Great!&fontSize=20&fontColor=00e5ff&animation=twinkling&fontAlignY=55" width="100%"/>
+
+<br/>
+
+**⭐ If my work helped you — drop a star, it means the world! ⭐**
+
+<br/>
+
+*Crafted with* ❤️ *&* ☕ *by* **Ateeb Hussain**
 
 </div>
