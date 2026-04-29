@@ -1,32 +1,31 @@
-<!-- HEADER -->
+# 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1117,60:0f1923,100:0a0a0f&height=200&section=header&text=Ateeb%20Hussain&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20·%20TypeScript%20Enthusiast%20·%20UI%20Craftsman%20⚡&descSize=14&descAlignY=62&descColor=8892a4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:001a0e,50:003d1f,100:001a0e&height=180&section=header&text=Ateeb%20Hussain&fontSize=58&fontColor=39ff14&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20TypeScript%20Enthusiast%20%E2%80%A2%20UI%20Craftsman&descSize=15&descAlignY=68&descColor=7fff7f" width="100%"/>
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=550&height=40&lines=Hey+there%2C+I'm+Ateeb+👋;I+turn+ideas+into+pixel-perfect+reality;MERN+Stack+%7C+TypeScript+%7C+Clean+Code;Ship+fast.+Break+nothing.+Learn+always.+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=39FF14&center=true&vCenter=true&random=false&width=500&height=45&lines=Hey+there%2C+I'm+Ateeb+%F0%9F%91%8B;Turning+ideas+into+pixel-perfect+reality;MERN+Stack+%7C+TypeScript+%7C+Clean+Code;Ship+fast.+Break+nothing.+Learn+always.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateeb-hussain-ab1808402)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300E5FF.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/AteebAH96/My-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2339FF14.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/AteebAH96/My-Portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateebhussain78@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AteebAH96)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AteebAH96&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AteebAH96&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS&labelColor=001a0e)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/AteebAH96?style=for-the-badge&color=00e5ff&label=FOLLOWERS&logo=github)
+![Followers](https://img.shields.io/github/followers/AteebAH96?style=for-the-badge&color=39ff14&label=FOLLOWERS&logo=github&labelColor=001a0e)
 
 </div>
 
@@ -34,7 +33,6 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
 ## 🧑‍💻 &nbsp;`< About Me />`
 
 ```typescript
@@ -61,7 +59,6 @@ const ateeb: Developer = {
 
 ---
 
-<!-- SKILLS SECTION -->
 ## ⚡ &nbsp;`< Tech Arsenal />`
 
 <div align="center">
@@ -88,22 +85,21 @@ const ateeb: Developer = {
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 &nbsp;`< GitHub Analytics />`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AteebAH96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=Ateeb's+GitHub+Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AteebAH96&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AteebAH96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=Ateeb's+GitHub+Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AteebAH96&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages"/>
 
 </div>
 
 <br/>
 
-<!-- STREAK STATS -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AteebAH96&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff&sideLabels=8892a4&dates=8892a4&sideNums=ffffff&currStreakNum=ffffff&starting_year=2024" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AteebAH96&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=00ff88&currStreakLabel=39ff14&sideLabels=8892a4&dates=8892a4&sideNums=ffffff&currStreakNum=ffffff&starting_year=2024" alt="GitHub Streak" />
 
 </div>
 
@@ -111,7 +107,6 @@ const ateeb: Developer = {
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
 ## 🐍 &nbsp;`< Contribution Snake />`
 
 <div align="center">
@@ -128,12 +123,11 @@ const ateeb: Developer = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 ## 📈 &nbsp;`< Activity Graph />`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AteebAH96&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AteebAH96&theme=github-compact&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=003d1f" width="100%"/>
 
 </div>
 
@@ -141,12 +135,11 @@ const ateeb: Developer = {
 
 ---
 
-<!-- TROPHIES -->
 ## 🏆 &nbsp;`< Achievements />`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AteebAH96&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AteebAH96&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -154,7 +147,6 @@ const ateeb: Developer = {
 
 ---
 
-<!-- QUOTE -->
 ## 💭 &nbsp;`< Daily Dose />`
 
 <div align="center">
@@ -164,10 +156,12 @@ const ateeb: Developer = {
 </div>
 
 <br/>
-<!-- FOOTER -->
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:0f1923&height=130&section=footer&text=Let's+Build+Something+Great!&fontSize=20&fontColor=00e5ff&animation=twinkling&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0e,50:003d1f,100:001a0e&height=130&section=footer&text=Let's+Build+Something+Great!&fontSize=22&fontColor=39ff14&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br/>
 
