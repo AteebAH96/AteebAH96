@@ -164,46 +164,6 @@ const ateeb: Developer = {
 </div>
 
 <br/>
-
----
-
-<!-- SNAKE SETUP GUIDE -->
-## 🔧 &nbsp;`< Snake Animation Setup (One-Time) />`
-
-**Step 1** — In your `AteebAH96` repo, go to **Actions** → **New workflow** → **Set up a workflow yourself**
-
-**Step 2** — Paste this into `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3** — Run the workflow manually once → Done! 🎉
-
----
-
 <!-- FOOTER -->
 <div align="center">
 
